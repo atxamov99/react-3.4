@@ -5,7 +5,7 @@ import { BiUser } from "react-icons/bi";
 import { FaRegHeart } from "react-icons/fa";
 import { PiHandbagLight } from "react-icons/pi";
 
-import Atir from '../assets/Atir.png';
+import Atir from '../assets/atir.png';
 
 const Header = () => {
   return (
