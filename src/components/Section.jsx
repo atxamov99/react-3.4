@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Soothing from '../assets/Soothing.png'
-import Unveiling from '../assets/unveiling.png'
+import Unveiling from '../assets/Unveiling.png'
 
 const Section = () => {
   return (
