@@ -1,15 +1,15 @@
-import Header from './components/Header';
-import FilterBar from './components/FilterBar';
-import ProductList from './components/ProductList'; 
-import SpecialOffers from './components/SpecialOffers';
-import Footer from './components/Footer';
+import Header from './Header';
+import FilterBar from './FilterBar';
+import ProductList from './ProductList';
+import SpecialOffers from './SpecialOffers';
+import Footer from './Footer';
 
 function Home() {
   return (
-     <div className="bg-black min-h-screen text-white">
+    <div className="bg-black min-h-screen text-white">
       <Header />
       <FilterBar />
-      <ProductList /> 
+      <ProductList />
       <SpecialOffers />
       <Footer />
     </div>
