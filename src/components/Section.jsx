@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Soothing from '../assets/Soothing.png'
-import Luxury from '../assets/pidr.png'
 import Unveiling from '../assets/unveiling.png'
 
 const Section = () => {
@@ -19,7 +18,7 @@ const Section = () => {
         </div>
 
         <div className="flex flex-col space-y-8">
-          <img src={Luxury} alt="" className='w-[400px] h-[400px] object-cover rounded-lg' />
+          <img src={Soothing} alt="" className='w-[400px] h-[400px] object-cover rounded-lg' />
           <h3 className='font-bold'>The Art of Curating a Luxury Perfume <br /> Collection: A Symphony of Scents and <br /> Stories</h3>
           <p>A luxury perfume collection is not just an assortment <br /> of fragrances; it is a reflection of one's taste, <br /> personality, and experiences. Each bottle holds a <br /> unique olfactory journey, crafted with the finest <br /> ingredients and artistic mastery.</p>
           <button className='bg-none border-2 border-white rounded-2xl p-[10px] w-[150px]'>Read More</button>
