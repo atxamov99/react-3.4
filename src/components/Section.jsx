@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Soothing from '../assets/Soothing.png'
-import Luxury from '../assets/luxury.png'
+import Luxury from '../assets/pidr.png'
 import Unveiling from '../assets/unveiling.png'
 
 const Section = () => {
