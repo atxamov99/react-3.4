@@ -1,4 +1,4 @@
-import Header from './components/Header';g
+import Header from './components/Header';
 import FilterBar from './components/FilterBar';
 import ProductList from './components/ProductList'; 
 import SpecialOffers from './components/SpecialOffers';
