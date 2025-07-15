@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Soothing from '../assets/Soothing.png'
-import Unveiling from '../assets/Unveiling.png'
 
 const Section = () => {
   return (
@@ -18,7 +17,7 @@ const Section = () => {
         </div>
         
         <div className="flex flex-col space-y-8">
-          <img src={Unveiling} alt="" className='w-[400px] h-[400px] object-cover rounded-lg' />
+          <img src={Soothing} alt="" className='w-[400px] h-[400px] object-cover rounded-lg' />
           <h3 className='font-bold'>The Timeless Elegance of Rose <br /> Perfumes: Unveiling the Queen of <br /> Flowers in Fragrance</h3>
           <p>Rose, often referred to as the "Queen of Flowers," <br /> has held a special place in human culture and <br /> history for centuries. Beyond its captivating beauty, <br /> this iconic bloom has also inspired perfumers to <br /> create some of the most timeless and exquisite <br /> fragrances in the world.</p>
           <button className='bg-none border-2 border-white rounded-2xl p-[10px] w-[150px]'>Read More</button>
