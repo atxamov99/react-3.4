@@ -1,19 +1,12 @@
-import React from 'react'
-import Header from './components/Header'
-import Footer from './components/Footer'
-import Main from './components/Main'
-import Section from './components/Section'
+import React from 'react';
+import Home from './components/Home';
 
 const App = () => {
   return (
-    <div className='bg-black text-white'>
-      <Header />
-      <Main />
-      <Section />
-      <Footer />
+   <div className="bg-black min-h-screen text-white">
+      <Home />
     </div>
   )
 }
-
 
 export default App
